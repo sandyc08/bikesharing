@@ -43,3 +43,8 @@ Ending locations of bike rides also found to be concluding in Manhattan. This me
 It is without question that the Citibikes are very popular in New York City. The bikes offer a convenient way to get around the city while avoidiing traffic, more efficiently than walking, and less of hassle of having/storing a personally owned bike. Citibikes has a large male subscriber demographic, who use the bikes for not only commuting to work, but for nights out. 
 In order to know if Citibikes would be able to thrive in Des Moines, we would have to analyze how closely everything is located. In urban Manhattan, the city is large yes, but many thing are within walking distance so that a bike ride is feasible and won't take many miles to reach the destination. No one in Manhattan is regularly biking 40 miles.
 We need to see DeMoines populated areas, the businesses and homes/apartments. That way we can see if people might want to ride a bike instead of drive. We also would need to see if DeMoines has an active night life scene. Peak usage was at midnight for New York City, so if DeMoines has fun scene too (for Iowa), users could potentially use the bikes to get to their next destination as well.
+
+
+
+
+https://public.tableau.com/views/CitibikesChallenge/CitibikesStory?:language=en-US&:display_count=n&:origin=viz_share_link
